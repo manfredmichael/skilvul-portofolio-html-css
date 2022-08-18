@@ -72,11 +72,10 @@ section {
     display: flex;
     align-items: center;
     background: #eeeff1;
+    justify-content: space-between;
     /* border: dashed blue 1px; */
 }
 .container img {
-    /* max-height: 70vh; */
-    /* align-content: left; */
     width: 100%;
     height: auto;
   }
@@ -101,7 +100,7 @@ section {
 .text .two{
     font-size: 24px;
     color: #161616;
-    diplay: inline-block;
+    display: inline-block;
     font-weight: 500;
 }
 .text h1{
