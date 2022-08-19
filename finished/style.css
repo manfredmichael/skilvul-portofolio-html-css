@@ -75,10 +75,6 @@ section {
     justify-content: space-between;
     /* border: dashed blue 1px; */
 }
-.container img {
-    width: 100%;
-    height: auto;
-  }
 .text{
     padding-top: 70px;
 }
